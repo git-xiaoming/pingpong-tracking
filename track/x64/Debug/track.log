@@ -1,0 +1,14 @@
+﻿  track.cpp
+d:\Documents\c project\project1\track.cpp(19,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(19,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(19,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(19,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(52,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(52,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(52,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(52,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(57,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(57,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(81,38): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+d:\Documents\c project\project1\track.cpp(81,59): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  track.vcxproj -> d:\Documents\c project\project1\x64\Debug\track.exe

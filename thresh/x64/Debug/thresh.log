@@ -1,0 +1,4 @@
+﻿  thresh.cpp
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\thresh.cpp(35,22): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\thresh.cpp(63,59): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  thresh.vcxproj -> D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\x64\Debug\thresh.exe

@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(127,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(127,21): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(127,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(127,40): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(159,33): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(159,27): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(159,52): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(159,46): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(164,51): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(164,45): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(191,29): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\main.cpp(191,71): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  main.vcxproj -> D:\OneDrive - stu.hit.edu.cn\文档\c project\project1\x64\Debug\main.exe
