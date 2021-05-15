@@ -19,8 +19,6 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "camera2world", "camera2worl
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "BGR_thresh", "BGR_thresh\BGR_thresh.vcxproj", "{B6991EB5-322F-4A68-8F20-1B8A3C9B6514}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "helloworld", "helloworld\helloworld.vcxproj", "{0740EFA5-E95A-4B45-8775-C3BD1347754D}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM = Debug|ARM
@@ -129,18 +127,6 @@ Global
 		{B6991EB5-322F-4A68-8F20-1B8A3C9B6514}.Release|x64.Build.0 = Release|x64
 		{B6991EB5-322F-4A68-8F20-1B8A3C9B6514}.Release|x86.ActiveCfg = Release|Win32
 		{B6991EB5-322F-4A68-8F20-1B8A3C9B6514}.Release|x86.Build.0 = Release|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Debug|ARM.ActiveCfg = Debug|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Debug|ARM64.ActiveCfg = Debug|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Debug|x64.ActiveCfg = Debug|x64
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Debug|x64.Build.0 = Debug|x64
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Debug|x86.ActiveCfg = Debug|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Debug|x86.Build.0 = Debug|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Release|ARM.ActiveCfg = Release|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Release|ARM64.ActiveCfg = Release|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Release|x64.ActiveCfg = Release|x64
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Release|x64.Build.0 = Release|x64
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Release|x86.ActiveCfg = Release|Win32
-		{0740EFA5-E95A-4B45-8775-C3BD1347754D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
